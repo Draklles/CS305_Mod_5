@@ -1,2 +1,4 @@
-# CS305_Mod_5
-cs 305 module 5 assignment
+# CS305_Mod5/Beginner Friendly DAW Software
+(insert stuff here in a minute)
+
+
